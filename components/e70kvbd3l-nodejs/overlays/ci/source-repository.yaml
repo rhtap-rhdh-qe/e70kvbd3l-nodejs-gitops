@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: e70kvbd3l-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/e70kvbd3l-nodejs
